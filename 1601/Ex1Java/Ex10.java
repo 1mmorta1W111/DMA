@@ -7,7 +7,7 @@
 import java.util.List;
 import java.util.Scanner;
 
-public class E10 {
+public class Ex10 {
     public static void main(String[] args) {
         List<Character> allDigits = List.of('0', '1', '2', '3', '4', '5', '6', '7', '8', '9');
 
@@ -16,11 +16,11 @@ public class E10 {
         System.out.print("Введите число (можно дробное): ");
         String userString = scanner.nextLine();
 
-        int sumOfDigitsInString = 0;
+        int DigitsInStringCount = 0;
         for(char c: userString.toCharArray()) {
-            if (allDigits.contains(c)) sumOfDigitsInString++;
+            if (allDigits.contains(c)) DigitsInStringCount++;
         }
 
-        System.out.print("Строка/число содержит: " + "цифры в количестве "+sumOfDigitsInString + " шт. (xD)");
+        System.out.print("Количество цифр: "+DigitsInStringCount);
     }
 }

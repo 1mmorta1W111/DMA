@@ -4,11 +4,9 @@
 
 package Ex1Java;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class E6 {
+public class Ex6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
