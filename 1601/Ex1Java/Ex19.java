@@ -4,11 +4,9 @@
 
 package Ex1Java;
 
-import java.util.List;
 import java.util.Scanner;
-import java.util.Set;
 
-public class EX19 {
+public class Ex19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
