@@ -5,6 +5,6 @@
 * #### [16.01.2025 – вводные задачи](#вводные-задачи)
 История:
 ### Вводные задачи
-* #### [Задачи 1 на Java](#вводные-задачи)
-* #### [Задачи 2 на Kotlin](#вводные-задачи)
-* #### [Задачи 3 (ООП) на Dart](#вводные-задачи)
+* #### [Задачи 1 на Java](https://github.com/1mmorta1W111/DMA/tree/main/1601/Ex1Java)
+* #### [Задачи 2 на Kotlin](https://github.com/1mmorta1W111/DMA/tree/main/1601/Ex2Kotlin)
+* #### [Задачи 3 (ООП) на Dart](https://github.com/1mmorta1W111/DMA/tree/main/1601/ExOOPDart)
