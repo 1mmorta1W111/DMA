@@ -6,7 +6,7 @@ package Ex1Java;
 
 import java.util.Scanner;
 
-public class Ex8 {
+public class Ex08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.List;
 
-public class Ex5 {
+public class Ex05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
