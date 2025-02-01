@@ -1,0 +1,10 @@
+name: your_project_name
+description: A simple Dart project.
+
+environment:
+  sdk: '^3.6.0'
+
+dependencies:
+  timezone: ^0.9.2
+  intl: ^0.18.0
+
