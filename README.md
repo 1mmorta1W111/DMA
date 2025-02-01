@@ -10,6 +10,6 @@
 * #### [Задачи 2 на Kotlin](https://github.com/1mmorta1W111/DMA/tree/main/1601/Ex2Kotlin)
 * #### [Задачи 3 (ООП) на Dart](https://github.com/1mmorta1W111/DMA/tree/main/1601/ExOOPDart)
 ### Отработка синтаксиса и базы языков
-* #### [Задачи DateTime](https://github.com/1mmorta1W111/DMA/tree/main/1601/Ex1Java)
-* #### [Задачи SingletonEnum](https://github.com/1mmorta1W111/DMA/tree/main/1601/Ex2Kotlin)
-* #### [Задачи ThreadsLoNiO](https://github.com/1mmorta1W111/DMA/tree/main/1601/ExOOPDart)
+* #### [Задачи DateTime](https://github.com/1mmorta1W111/DMA/tree/main/2301/ExDateTime)
+* #### [Задачи SingletonEnum](https://github.com/1mmorta1W111/DMA/tree/main/2301/ExSingeltonEnum)
+* #### [Задачи ThreadsLoNiO](https://github.com/1mmorta1W111/DMA/tree/main/2301/ExThreadsLoNiO)
