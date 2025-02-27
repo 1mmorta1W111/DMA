@@ -18,7 +18,7 @@ void main() {
       String outputFile = stdin.readLineSync()!;
       print('Введите ключ (сдвиг):');
       int shift = int.parse(stdin.readLineSync()!);
-      encryptFile(inputFile, outputFile, shift);  // Вызов функции шифрования
+      encryptFile(inputFile, outputFile, shift);
       break;
     case '2':
       print('Введите путь к файлу для расшифровки:');
@@ -27,14 +27,14 @@ void main() {
       String outputFile = stdin.readLineSync()!;
       print('Введите ключ (сдвиг):');
       int shift = int.parse(stdin.readLineSync()!);
-      decryptFile(inputFile, outputFile, shift);  // Вызов функции расшифровки
+      decryptFile(inputFile, outputFile, shift);
       break;
     case '3':
       print('Введите путь к зашифрованному файлу для brute force:');
       String inputFile = stdin.readLineSync()!;
       print('Введите путь для записи результата:');
       String outputFile = stdin.readLineSync()!;
-      bruteForceDecrypt(inputFile, outputFile);  // Вызов функции brute force
+      bruteForceDecrypt(inputFile, outputFile);
       break;
     case '4':
       print('Выход');

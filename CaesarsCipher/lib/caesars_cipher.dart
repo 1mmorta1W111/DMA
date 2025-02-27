@@ -1,7 +1,6 @@
 class CaesarCipher {
   static const String alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-  // Функция для шифрования текста
   String encrypt(String text, int shift) {
     shift = shift % alphabet.length;
     return text
@@ -16,7 +15,6 @@ class CaesarCipher {
     }).join('');
   }
 
-  // Функция для расшифровки текста
   String decrypt(String text, int shift) {
     shift = shift % alphabet.length;
     return text
